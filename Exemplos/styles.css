@@ -1,0 +1,42 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para os cabeçalhos */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, sans-serif;
+    color: #333; /* Cor do texto */
+}
+
+/* Estilo para links */
+a {
+    color: #007bff; /* Cor do link */
+    text-decoration: none; /* Remover sublinhado padrão */
+}
+
+a:hover {
+    text-decoration: underline; /* Adicionar sublinhado ao passar o mouse */
+}
+
+/* Estilo para as divs com classe "container" */
+.container {
+    max-width: 1200px; /* Largura máxima */
+    margin: 0 auto; /* Centralizar horizontalmente */
+    padding: 20px; /* Espaçamento interno */
+}
+
+/* Estilo para divs com classe "section" */
+.section {
+    margin-bottom: 30px; /* Espaçamento inferior */
+}
+
+/* Estilo para a tag hr */
+hr {
+    border: 0; /* Sem borda */
+    height: 1px; /* Altura da linha */
+    background-color: #ccc; /* Cor da linha */
+    margin: 20px 0; /* Espaçamento */
+}
