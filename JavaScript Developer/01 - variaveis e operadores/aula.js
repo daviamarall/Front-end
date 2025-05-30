@@ -6,4 +6,4 @@ let distancia = 500;
 let litrosConsumidos = distancia / gastoPorKM ;
 let valorGasto = litrosConsumidos * precoCombustivel;
 
-console.log(valorGasto)
+console.log(valorGasto.toFixed(2));
