@@ -1,30 +1,32 @@
-# Front-end e Suas Tecnologias
+# Front-end — Anotações de estudo
 
-Este repositório contém informações sobre o estudo de front-end e suas tecnologias, incluindo HTML, CSS e JavaScript. Aqui estão alguns recursos e tópicos que serão abordados:
+Anotações e exemplos práticos de **front-end**: HTML, CSS e JavaScript, com exercícios e exemplos de código.
 
-## Tópicos Abordados
+## 📚 Conteúdo
 
-- HTML básico e avançado
-- CSS básico e avançado
-- JavaScript básico e avançado
-- Frameworks front-end como React, Angular e Vue.js
-- Pré-processadores CSS como Sass e Less
-- Gerenciadores de pacotes como npm e Yarn
-- Controle de versão com Git e GitHub
-- Responsividade e design mobile-first
-- Boas práticas de desenvolvimento front-end
+### HTML
+1. [HTML](<1. HTML.md>)
+2. [Tags](<2. Tags.md>)
+3. [Ambientes de Desenvolvimento](<3. Ambientes de Desenvolvimento.md>)
+4. [Títulos, Parágrafos e Quebras de Linha](<4. Títulos, Parágrafos e Quebras de Linha.md>)
+5. [Navegação, Listas e Links](<5. Navegação, Listas e Links.md>)
+6. [Imagens](<6. Imagens.md>)
+7. [Tabelas](<7. Tabelas.md>)
+8. [ID e Class](<8. ID e Class.md>)
+9. [Form](<9. Form.md>)
+10. [Tags Estruturais](<10. Tags Estruturais.md>)
 
-## Recursos Recomendados
+### JavaScript
+- [JavaScript Developer](JavaScript%20Developer) — variáveis, operadores, condicionais e exercícios
 
-Aqui estão alguns recursos recomendados para quem está começando a estudar front-end:
+### Prática
+- `Exemplos/` — exemplos de HTML, CSS e JavaScript
+- `js/` — exercícios de JS
+- `Fluxos básicos Git e Github/` — fluxo básico de Git
 
-- [W3Schools](https://www.w3schools.com/): Ótimo para aprender os conceitos básicos de HTML, CSS e JavaScript.
-- [MDN Web Docs](https://developer.mozilla.org/): Excelente referência para informações detalhadas sobre HTML, CSS e JavaScript.
-- [FreeCodeCamp](https://www.freecodecamp.org/): Plataforma interativa para aprender front-end e desenvolvimento web completo.
-- [CSS-Tricks](https://css-tricks.com/): Excelentes tutoriais e artigos sobre CSS.
-- [JavaScript.info](https://javascript.info/): Tutoriais completos sobre JavaScript, desde o básico até recursos avançados.
+## 🔗 Referências
 
-## Como Contribuir
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [javascript.info](https://javascript.info/)
 
-Se você quiser contribuir com este repositório, sinta-se à vontade para enviar pull requests com melhorias ou adições de conteúdo.
-
+> Repositório de **estudos**, parte do meu portfólio de desenvolvimento.
